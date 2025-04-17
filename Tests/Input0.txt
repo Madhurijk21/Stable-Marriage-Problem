@@ -1,0 +1,9 @@
+4
+Albert Diane Emily Fergie Juliet
+Bradley Emily Diane Fergie Juliet
+Charles Diane Emily Fergie Juliet
+John Emily Fergie Diane Juliet
+Diane Albert Bradley Charles John
+Emily Albert Bradley Charles John
+Fergie Albert Bradley Charles John
+Juliet Bradley John Albert Charles

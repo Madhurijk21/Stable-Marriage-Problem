@@ -1,0 +1,11 @@
+5
+Atlanta Wayne Val Yolanda Zeus Xavier
+Boston Yolanda Wayne Val Xavier Zeus
+Chicago Wayne Zeus Xavier Yolanda Val
+Detroit Val Yolanda Xavier Wayne Zeus
+ElPaso Wayne Yolanda Val Zeus Xavier
+Val ElPaso Atlanta Boston Detroit Chicago
+Wayne Chicago Boston Detroit Atlanta ElPaso
+Xavier Boston Chicago Detroit ElPaso Atlanta
+Yolanda Atlanta ElPaso Detroit Chicago Boston
+Zeus Detroit Boston ElPaso Chicago Atlanta
